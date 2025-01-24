@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Currículum</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tu Nombre</h1>
+        <p>Desarrollador Web | Diseñador UI/UX</p>
+    </header>
+
+    <section id="about">
+        <h2>Sobre mí</h2>
+        <p>Soy un apasionado del desarrollo web con experiencia en HTML, CSS y JavaScript.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Experiencia</h2>
+        <ul>
+            <li><strong>Empresa XYZ</strong> - Desarrollador Frontend (2022 - Actualidad)</li>
+            <li><strong>Freelancer</strong> - Proyectos de desarrollo web (2019 - 2022)</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Educación</h2>
+        <p>Licenciatura en Informática - Universidad ABC (2015 - 2019)</p>
+    </section>
+
+    <footer>
+        <p>Contacto: <a href="mailto:tucorreo@email.com">tucorreo@email.com</a></p>
+    </footer>
+</body>
+</html>
